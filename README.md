@@ -1,2 +1,2 @@
 # bvipackpy
-Usual function for python
+Usual functions for python
