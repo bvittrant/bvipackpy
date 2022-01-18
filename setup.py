@@ -7,5 +7,7 @@ setup(name='bvipackpy',
       description='Basic python functions',
       author='Benjamin Vittrant',
       author_email='bv.research@protonmail.com',
-      url='https://github.com/bvittrant/bvipackpy'
+      url='https://github.com/bvittrant/bvipackpy',
+      packages=['bvipackpy'],
+      install_requires=['os']
      )
