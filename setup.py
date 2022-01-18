@@ -9,5 +9,5 @@ setup(name='bvipackpy',
       author_email='bv.research@protonmail.com',
       url='https://github.com/bvittrant/bvipackpy',
       packages=['packages'],
-      install_requires=['os']
+      install_requires=[]
      )
