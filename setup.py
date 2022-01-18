@@ -8,6 +8,6 @@ setup(name='bvipackpy',
       author='Benjamin Vittrant',
       author_email='bv.research@protonmail.com',
       url='https://github.com/bvittrant/bvipackpy',
-      packages=['bvipackpy'],
+      packages=['packages'],
       install_requires=['os']
      )
