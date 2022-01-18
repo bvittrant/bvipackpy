@@ -8,5 +8,5 @@ setup(name='bvipackpy',
       author='Benjamin Vittrant',
       author_email='bv.research@protonmail.com',
       url='https://github.com/bvittrant/bvipackpy',
-      packages=['distutils', 'distutils.command','os'],
+      packages=['os'],
      )
